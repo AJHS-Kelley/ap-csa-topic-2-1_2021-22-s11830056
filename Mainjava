@@ -1,0 +1,29 @@
+// Johann Burke, CSA topic 2.1, time 8:50, date 10/28/2021 version 1.0.1
+public class Mainjava{
+public static void main(String[] args) {
+    String cardName;
+    String effectType;
+    String cardType;
+
+    public class effectType{
+    Boolean hasEffect;
+    String effectDescription;
+    }
+
+
+
+    public class cardType{
+    String cardLevel;
+    Boolean isPendulum;
+    boolean isTuner;
+    }
+
+
+
+
+
+
+
+
+    }
+}
